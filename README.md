@@ -53,7 +53,7 @@
 
 17. [Object.create](https://github.com/qianlongo/fe-handwriting/blob/master/44.Object.create.js)
 
-18. [isCyclic判断循环引用](https://github.com/qianlongo/fe-handwriting/blob/master/51.js)
+18. [isCyclic判断循环引用](https://github.com/qianlongo/fe-handwriting/blob/master/51.isCyclic.js)
 
 19. [手写JSON.stringify](https://github.com/qianlongo/fe-handwriting/blob/master/50.JSON.stringify.js)
 
